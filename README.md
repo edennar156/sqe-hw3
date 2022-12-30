@@ -4,7 +4,7 @@ This is a repository for assignment 3 of the Software Quality Engineering course
 ## Assignment Description
 In this assignment, we tested an open-source software called [PrestaShop](https://www.prestashop.com/en).
 
-$$*TODO* Add some general description about the software$$
+$$PrestaShop is an open-source e-commerce platform that is used to create and manage online stores. It is designed to be user-friendly and easy to use, even for those who are new to e-commerce. With PrestaShop, users can create and customize their own online store, add and manage products, process orders, track inventory, and more. It also includes features such as marketing tools, payment gateways, and shipping options to help users manage and grow their online business. PrestaShop is used by small and medium-sized businesses around the world to sell a wide range of products, including physical goods, digital products, and services.$$
 
 ## Installation
 $$*TODO* Write instructions on how to install the software and prepare the testing environment$$
